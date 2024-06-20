@@ -2,6 +2,7 @@
 Dada a pesquisa feita sobre o levantamento e categorização de museus de informática, disponibilizamos neste repositório os arquivos para análise de dados e criação de mapas sobre o assunto.
 Aqui estão disponíveis arquivos .shp, .shx, .shp, .cpg, .prj, .qpj para a recriação de mapas e também arquivos .geoson.
 
+![MapaGit](https://github.com/GabriellyBailon/DivulgacaoPesquisaMuseus/assets/71770963/901a0634-6e2d-4587-afe8-d2d7a9763b0b)
 
 ## Descompactação
 Como os arquivos sobre os museus possuem tamanho maior que o permitido para o repositório, eles estão zipados e estão em 5 partes. Para utilizá-los, descompacte os mesmos usando o software WinRar de acordo com os passos abaixo: 

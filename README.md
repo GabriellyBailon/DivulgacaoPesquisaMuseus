@@ -1,4 +1,4 @@
-# DivulgacaoPesquisaMuseus
+# ReadMe
 Dada a pesquisa feita sobre o levantamento e categorização de museus de informática, disponibilizamos neste repositório os arquivos para análise de dados e criação de mapas sobre o assunto.
 Aqui estão disponíveis arquivos .shp, .shx, .shp, .cpg, .prj, .qpj para a recriação de mapas e também arquivos .geoson.
 
